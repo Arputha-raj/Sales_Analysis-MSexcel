@@ -1,1 +1,3 @@
-# Sales_Analysis-MSexcel
+Sales Analysis Project Using MS Excel 📌 Overview This project provides a comprehensive analysis of sales data using Microsoft Excel. The analysis uncovers critical insights such as revenue trends, product performance, and customer behavior, enabling businesses to make data-driven decisions.
+
+🎯 Objectives To analyze and visualize sales trends and performance. To identify key factors driving sales growth or decline. To provide actionable insights for strategic decision-making. ✨ Features Data Cleaning: Removed duplicates and standardized data formats for consistency. Descriptive Analysis: Summarized key metrics such as total sales, average sales, and revenue per region. Visualization: Created charts (bar, pie, line charts) for better data representation. Trend Analysis: Analyzed sales over time to identify peak performance periods. Insights: Highlighted top-performing products, regions, and sales representatives.
